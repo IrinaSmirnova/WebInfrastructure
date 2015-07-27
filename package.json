@@ -1,0 +1,25 @@
+{
+  "name": "WebInfrastructure",
+  "version": "1.0.0",
+  "description": "CDP task",
+  "main": "all.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IrinaSmirnova/WebInfrastructure.git"
+  },
+  "author": "Irina Smirnova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IrinaSmirnova/WebInfrastructure/issues"
+  },
+  "homepage": "https://github.com/IrinaSmirnova/WebInfrastructure",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-jscs": "^1.6.0",
+    "gulp-jshint": "^1.11.2"
+  }
+}
