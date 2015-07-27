@@ -21,5 +21,8 @@
     "gulp-concat": "^2.6.0",
     "gulp-jscs": "^1.6.0",
     "gulp-jshint": "^1.11.2"
+  },
+  "devDependencies": {
+    "gulp-jasmine": "^2.0.1"
   }
 }
